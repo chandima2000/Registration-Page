@@ -1,0 +1,25 @@
+.form-container{
+    width:40%;
+}
+
+@media screen and (max-width :1000px) {
+    .fomr-container{
+        width :45%;
+    }
+    
+}
+
+@media screen and (max-width :700px) {
+    .fomr-container{
+        width :65%;
+    }
+    
+}
+
+label{
+    font-weight: 500;
+}
+
+type{
+    width:75%;
+}

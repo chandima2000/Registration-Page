@@ -1,0 +1,22 @@
+.fomr-container{
+    width :30%;
+}
+
+
+@media screen and (max-width :1000px) {
+    .fomr-container{
+        width :45%;
+    }
+    
+}
+
+@media screen and (max-width :700px) {
+    .fomr-container{
+        width :65%;
+    }
+    
+}
+
+label{
+    font-weight: 500;
+}
